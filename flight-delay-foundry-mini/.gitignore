@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Data layers (generated)
+data/L0_raw/*
+data/L1_clean/*
+data/L2_modeled/*
+data/L3_metrics/*
+data/L4_decision/*
+
+# OS
+.DS_Store
+Thumbs.db

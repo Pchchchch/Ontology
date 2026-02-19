@@ -1,0 +1,17 @@
+relationships:
+  - from: Flight
+    type: departs_from
+    to: Airport
+    cardinality: many_to_one
+  - from: Flight
+    type: arrives_at
+    to: Airport
+    cardinality: many_to_one
+  - from: Flight
+    type: operated_by
+    to: Airline
+    cardinality: many_to_one
+  - from: Event
+    type: impacts
+    to: Airport
+    cardinality: many_to_many

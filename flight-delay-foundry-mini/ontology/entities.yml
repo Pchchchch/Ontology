@@ -1,0 +1,13 @@
+entities:
+  Airport:
+    keys: [airport_code]
+    attributes: [name, country]
+  Airline:
+    keys: [airline_code]
+    attributes: [name]
+  Flight:
+    keys: [flight_id]
+    attributes: [date, sched_dep, sched_arr]
+  Event:
+    keys: [event_id]
+    attributes: [event_type, severity, timestamp]
