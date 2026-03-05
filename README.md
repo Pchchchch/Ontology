@@ -1,11 +1,5 @@
-# NYC Airbnb Mini Project (Inside Airbnb)
+# Ontology
 
-Compact DS mini project using **Inside Airbnb (NYC)** public dataset:
-- EDA
-- Baseline price prediction model (log-price regression)
-- Interactive maps (Folium): heatmap + marker cluster (+ optional choropleth)
-
-## Data source
-Inside Airbnb "Get the Data" (NYC snapshot 2025-12-04):
-- listings.csv.gz (detailed listings)
-- neighbourhoods.geojson
+This is for tiny onotology project!
+1. flight-delay-foundry-mini (26.02.xx)
+2. airbnb-nyc-mini (26.03.05)
