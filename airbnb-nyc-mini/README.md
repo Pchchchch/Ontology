@@ -14,9 +14,16 @@ Identify spatial patterns in Airbnb listings and generate map-based outputs for 
 ---
 ## Output files
 
-reports/maps/availability_heatmap.html
-reports/maps/availability_markers.html
-reports/maps/availability_choropleth_styled.html
+1. reports/maps/availability_heatmap.html
+2. reports/maps/availability_markers.html
+3. reports/maps/availability_choropleth_styled.html
+
+1.
+<img width="637" height="674" alt="image" src="https://github.com/user-attachments/assets/15be88fd-7632-4203-b275-a323ccd2e521" />
+
+2.
+
+3.
 
 ---
 ## Timeline
