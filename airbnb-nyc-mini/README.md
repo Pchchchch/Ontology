@@ -16,14 +16,21 @@ Identify spatial patterns in Airbnb listings and generate map-based outputs for 
 
 1. reports/maps/availability_heatmap.html
 2. reports/maps/availability_markers.html
-3. reports/maps/availability_choropleth_styled.html
+3. reports/maps/availability_choropleth.html
+4. reports/maps/availability_choropleth_styled.html
 
-1.
+
+1. heatmap
 <img width="637" height="674" alt="image" src="https://github.com/user-attachments/assets/15be88fd-7632-4203-b275-a323ccd2e521" />
 
-2.
+2. markers
+<img width="638" height="673" alt="image" src="https://github.com/user-attachments/assets/9244b9fa-e439-4b3d-9d04-e1f2068345d9" />
 
-3.
+3. choropleth
+<img width="639" height="672" alt="image" src="https://github.com/user-attachments/assets/f1650ebd-5adf-443f-bb7f-c637ca902a69" />
+
+4. choropleth_styled 
+<img width="639" height="673" alt="image" src="https://github.com/user-attachments/assets/ba69bcb9-05c3-471d-8cbd-add308ee0a4a" />
 
 ---
 ## Timeline
